@@ -23,7 +23,7 @@
     standalone_tags:
       tag_names: ["tag_3"]
       tag_3:
-        id: 3
+        id: 5
         size: 1.0
 
     # ## Tag bundle definitions
